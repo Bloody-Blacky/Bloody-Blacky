@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bloody-Blacky
 - 🌱 I’m currently learning Python Full-Stack.
 - 💞️ Frontend- HTML,CSS,Js,React
-- 💞️ Backend- Python,Django,Sql
+- 💞️ Backend- Python,Sql
 - 📫 How to reach me @bloody.blacky2@gmail.com
 
 <!---
